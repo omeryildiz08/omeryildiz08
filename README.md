@@ -2,9 +2,9 @@
 
 ### A passionate full-stack developer
 
-- 🔭 I’m currently contributing to TechCafe, a platform for cafés and restaurants that brings together payments, loyalty, operations, and robotic automation in one system.**
+- 🔭 I’m currently contributing to TechCafe, a platform for cafés and restaurants that brings together payments, loyalty, operations, and robotic automation in one system.
 
-- 🌱 I'm currently learning **Event Driven Architecture , NextJS **
+- 🌱 I'm currently learning:Event Driven Architecture , NextJS 
 
 - 📫 How to reach me **omer.yildizz08@hotmail.com**
 
