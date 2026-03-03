@@ -3,7 +3,7 @@
 ### A passionate full-stack developer
 
 I am a junior software developer with a strong interest in web development, software architecture, and game development. 
-I enjoy turning ideas into real projects, especially with .NET and React, and I like learning by building. My goal is to keep improving as an engineer while creating clean, useful, and well-structured applications.
+I enjoy turning ideas into real projects and I like learning by building. My goal is to keep improving as an engineer while creating clean, useful, and well-structured applications.
 
 - 📫 How to reach me **omer.yildizz08@hotmail.com**
 
