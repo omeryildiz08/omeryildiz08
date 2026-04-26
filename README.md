@@ -6,7 +6,7 @@ I am a junior software developer with a strong interest in web development, soft
 I enjoy turning ideas into real projects and I like learning by building. My goal is to keep improving as an engineer while creating clean, useful, and well-structured applications.
 
 - 📫 How to reach me **omer.yildizz08@hotmail.com**
-- 
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
