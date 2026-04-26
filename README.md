@@ -10,17 +10,9 @@ I enjoy turning ideas into real projects and I like learning by building. My goa
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://github.com/omeryildiz08" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="35" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/omeryildiz34" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/omeryildiz" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="35" height="35" />
-  </a>
+<a href="https://github.com/omeryildiz08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="35" height="35" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/omeryildiz34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/omeryildiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="35" height="35" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
